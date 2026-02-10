@@ -1,4 +1,4 @@
-# Lookahead Execution Architecture & Flow (LEAF™) CPU Assembler
+# [WIP] Lookahead Execution Architecture & Flow (LEAF™) CPU Assembler
 
 **Assembler for a 16-bit Minecraft Redstone CPU featuring BTB-based Branch Prediction.**
 
@@ -29,7 +29,7 @@ gcc main.c zlib-1.3.1/*.c -o assembler -I zlib-1.3.1
 
 -----
 
-# Lookahead Execution Architecture & Flow (LEAF™) CPU 어셈블러
+# [미완성] Lookahead Execution Architecture & Flow (LEAF™) CPU 어셈블러
 
 **BTB 기반의 분기 예측을 지원하는 16비트 마인크래프트 레드스톤 CPU의 어셈블러입니다.**
 
