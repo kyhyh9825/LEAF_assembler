@@ -17,7 +17,6 @@ This tool converts custom assembly language into a Minecraft `.schem` file (Spon
     * Linux: `sudo apt-get install zlib1g-dev`
 
 ### Build
-Since this project uses zlib for generating compressed schematic files, you must link the library during compilation.
 ```
 gcc main.c zlib-1.3.1/*.c -o assembler -I zlib-1.3.1
 ```
